@@ -3,7 +3,7 @@
 
 # Introduction
 
-This GitHub repository serves as a comprehensive hub for the R2Gen project's developments over recent years. Here, you will find meticulously curated links to academic papers associated with our project, alongside direct links to the corresponding code repositories, whenever available. 
+This GitHub repository serves as a comprehensive hub for the R2Gen project's developments over recent years. Here, you will find links to academic papers, alongside direct links to the corresponding code repositories, if available. 
 
 Additionally, we have systematically presented the performance metrics of R2Gen on the **MIMIC-CXR dataset** within these publications. Our aim is to provide an easily navigable and resource-rich platform for researchers and enthusiasts alike, fostering greater collaboration and innovation in our field.
 
@@ -19,7 +19,7 @@ Whether you have suggestions, have spotted an error that needs correction, or wi
 
 # Papers
 
-| Year |                         Model                         |                            Title                             |                             Code                             | B-1   | B- 2  | B- 3  | B- 4  | ROUGE | METEOR | CIDEr | LLM                | Comments                                |
+| Year |                         Model                         |                            Title                             |                             Code                             | B-1   | B-2  | B-3  | B-4  | ROUGE | METEOR | CIDEr | LLM | Comments                                |
 | :--: | :---------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ----- | ----- | ----- | ----- | ----- | ------ | ----- | ------------------ | --------------------------------------- |
 | 2020 |                         R2Gen                         | [Generating Radiology Reports via Memory-driven Transformer](https://arxiv.org/abs/2010.16056) |         [code](https://github.com/zhjohnchan/R2Gen)          | 0.353 | 0.218 | 0.145 | 0.103 | 0.277 | 0.142  |       |                    |                                         |
 | 2020 |                         ASKG                          | [Auxiliary Signal-Guided Knowledge Encoder-Decoder for Medical Report Generation](https://arxiv.org/abs/2006.03744) |         [code](https://github.com/mlii0117/COV-CTR)          | \-    |       |       |       |       |        |       |                    | different dataset                       |
