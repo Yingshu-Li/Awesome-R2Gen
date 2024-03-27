@@ -1,4 +1,25 @@
-| Year |                         Model                         |                            Title                             |                             Code                             | B-1   | B- 2  | B- 3  | B- 4  | ROUGE | METEOR | CIDEr | LLM                | Comment                                 |
+<p align="center">
+  <h1 align="center">Awesome Radiology Report Generation</h1>
+
+# Introduction
+
+This GitHub repository serves as a comprehensive hub for the R2Gen project's developments over recent years. Here, you will find meticulously curated links to academic papers associated with our project, alongside direct links to the corresponding code repositories, whenever available. 
+
+Additionally, we have systematically presented the performance metrics of R2Gen on the **MIMIC-CXR dataset** within these publications. Our aim is to provide an easily navigable and resource-rich platform for researchers and enthusiasts alike, fostering greater collaboration and innovation in our field.
+
+Given the current surge in popularity of **Large Language models**, we have specifically highlighted the R2Gen models that leverage these LLMs. Additionally, we have introduced a comments column to each entry, where we note the unique features or significant highlights of certain studies.
+
+
+
+Whether you have suggestions, have spotted an error that needs correction, or wish to contribute, please feel free to [start a new issue](https://github.com/Yingshu97/Awesome-R2Gen/issues) or [pull requests](https://github.com/Yingshu97/Awesome-R2Gen/pulls), your input is highly valued. 
+
+# To-Do Lists
+
+- [ ] Add Clinic efficacy scores
+
+# Papers
+
+| Year |                         Model                         |                            Title                             |                             Code                             | B-1   | B- 2  | B- 3  | B- 4  | ROUGE | METEOR | CIDEr | LLM                | Comments                                |
 | :--: | :---------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ----- | ----- | ----- | ----- | ----- | ------ | ----- | ------------------ | --------------------------------------- |
 | 2020 |                         R2Gen                         | [Generating Radiology Reports via Memory-driven Transformer](https://arxiv.org/abs/2010.16056) |         [code](https://github.com/zhjohnchan/R2Gen)          | 0.353 | 0.218 | 0.145 | 0.103 | 0.277 | 0.142  |       |                    |                                         |
 | 2020 |                         ASKG                          | [Auxiliary Signal-Guided Knowledge Encoder-Decoder for Medical Report Generation](https://arxiv.org/abs/2006.03744) |         [code](https://github.com/mlii0117/COV-CTR)          | \-    |       |       |       |       |        |       |                    | different dataset                       |
